@@ -1,0 +1,20 @@
+.simple-button{
+    background-color: rgb(166, 146, 146);
+    padding: 30px;
+}
+
+button{
+    color:aliceblue;
+    background-color:blue;
+    padding: 6px;
+    padding-left: 12px;
+    padding-right: 12px;
+    border-style: none;
+}
+a{
+    text-decoration: none;
+    color: wheat;
+}
+.curved{
+    border-radius:5px;
+}
